@@ -6,8 +6,8 @@ li a {
     background-color: rgb(49, 170, 94);
 }
 ul {
-    list-style-type: disc;
+    list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 75px;
+    width: 60px;
 }
