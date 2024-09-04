@@ -1,13 +1,13 @@
 body {
-    background-color: rgb(171, 244, 205);
+    background-color: rgb(171, 244, 205); /* achtergrondkleur op hele pagina */
 }
 li a {
-    display: block;
-    background-color: rgb(49, 170, 94);
+    display: block; /* achtergrondvorm? van menubar */ 
+    background-color: rgb(49, 170, 94);  /* achtergrondkleur menubar */
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 75px;
+    width: 100px;
 }
