@@ -3,11 +3,14 @@ body {
 }
 li a {
     display: block; /* achtergrondvorm? van menubar */ 
-    background-color: rgb(49, 170, 94);  /* achtergrondkleur menubar */
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 15px;
     width: 125px; /* breedte van de achtergrondkleur vam menubar */
+}
+li {
+    display: inline;
+    background-color: rgb(49, 170, 94);  /* achtergrondkleur menubar */
 }
