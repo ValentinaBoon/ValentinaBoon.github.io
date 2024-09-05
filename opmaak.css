@@ -1,16 +1,26 @@
 body {
     background-color: rgb(171, 244, 205); /* achtergrondkleur op hele pagina */
 }
-li a {
-    display: block; /* achtergrondvorm? van menubar */ 
-}
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 15px;
-    width: 125px; /* breedte van de achtergrondkleur vam menubar */
-}
-li {
-    display: inline;
-    background-color: rgb(49, 170, 94);  /* achtergrondkleur menubar */
-}
+    padding: 0;
+    overflow: hidden;
+    background-color: #015b17;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
