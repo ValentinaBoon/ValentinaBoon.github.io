@@ -2,20 +2,20 @@ body {
     background-color: rgb(171, 244, 205); /* achtergrondkleur op hele pagina */
 }
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #015b17;
+    list-style-type: none; /* geen nummers/bolletjes achter de menuopties */
+    margin: 0; /* ruimte van de rand om het menu heen */
+    padding: 0; /* groote van het menu */
+    overflow: hidden; /* wordt niet geknipt als menu te veel opties heeft */
+    background-color: #015b17; /* achtergrondkleur menu */
   }
   
   li {
-    float: left;
+    float: left; /* aan welke kant het menu staat */
   }
   
   li a {
-    display: block;
-    color: white;
+    display: block; /* vorm van menu balk */ 
+    color: rgb(0, 0, 0); /* kleur van tekst op menu */
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
