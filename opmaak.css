@@ -16,11 +16,11 @@ ul {
   li a {
     display: block; /* vorm van menu balk */ 
     color: rgb(0, 0, 0); /* kleur van tekst op menu */
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    text-align: center; /* aan welke kant de menu opties zijn uitgelijnd*/
+    padding: 14px 16px; /* grootte van menu balk en van menu opties */
+    text-decoration: none; /* geen streep onder de menu opties */
   }
   
   li a:hover {
-    background-color: #111;
+    background-color: #111; /* kleur van wanneer je muis over een menu optie gaat */
   }
