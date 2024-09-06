@@ -6,7 +6,7 @@ ul {
     margin: 0; /* ruimte van de rand om het menu heen */
     padding: 0; /* groote van het menu */
     overflow: hidden; /* wordt niet geknipt als menu te veel opties heeft */
-    background-color: #bdc38d; /* achtergrondkleur menu */
+    background-color: beige; /* achtergrondkleur menu */
   }
   
   li {
