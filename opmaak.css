@@ -25,7 +25,10 @@ ul {
     background-color: rgb(142, 218, 141); /* kleur van wanneer je muis over een menu optie gaat */
   }
   h1 {
-    border-style: double;
-    color: rgb(0, 0, 0);
-    text-align: center;
+    border-style: double; /* rand om h1 heen */
+    color: rgb(0, 0, 0); /* tekst kleur van h1 */
+    text-align: center; /* h1 is boven in het midden van de pagina */
   }
+p { 
+  font-size: 20px;
+}
