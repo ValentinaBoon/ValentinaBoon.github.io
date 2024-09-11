@@ -24,5 +24,7 @@ ul {
   li a:hover {
     background-color: rgb(142, 218, 141); /* kleur van wanneer je muis over een menu optie gaat */
   }
-  h1 {border-style: double;
+  h1 {
+    border-style: double;
+    color: rgb(244, 244, 201);
   }
