@@ -24,3 +24,4 @@ ul {
   li a:hover {
     background-color: rgb(142, 218, 141); /* kleur van wanneer je muis over een menu optie gaat */
   }
+  p.double {border-style: double;}
