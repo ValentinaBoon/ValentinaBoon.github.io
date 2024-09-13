@@ -1,6 +1,7 @@
 body {
     background-color: rgb(185, 252, 199); /* achtergrondkleur op hele pagina */
 }
+
 ul {
     list-style-type: none; /* geen nummers/bolletjes achter de menuopties */
     margin: 0; /* ruimte van de rand om het menu heen */
@@ -9,26 +10,28 @@ ul {
     background-color: rgb(244, 244, 201); /* achtergrondkleur menu */
   }
   
-  li {
+li {
     float: left; /* aan welke kant het menu staat */
-  }
+}
   
-  li a {
+li a {
     display: block; /* vorm van menu balk */ 
     color: rgb(0, 0, 0); /* kleur van tekst op menu */
     text-align: center; /* aan welke kant de menu opties zijn uitgelijnd*/
     padding: 14px 16px; /* grootte van menu balk en van menu opties */
     text-decoration: none; /* geen streep onder de menu opties */
-  }
+}
   
-  li a:hover {
+li a:hover {
     background-color: rgb(142, 218, 141); /* kleur van wanneer je muis over een menu optie gaat */
-  }
-  h1 {
+}
+
+h1 {
     border-style: double; /* rand om h1 heen */
     color: rgb(0, 0, 0); /* tekst kleur van h1 */
     text-align: center; /* h1 is boven in het midden van de pagina */
-  }
+}
+
 p { 
   font-size: 20px; /* grootte van de tekst */
 }
