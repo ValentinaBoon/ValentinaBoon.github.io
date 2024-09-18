@@ -7,7 +7,7 @@ ul {
     margin: 0; /* ruimte van de rand om het menu heen */
     padding: 0; /* groote van het menu */
     overflow: hidden; /* wordt geknipt als menu te veel opties heeft */
-    background-color: rgb(10, 101, 11); /* achtergrondkleur menu */
+    background-color: rgb(31, 132, 33); /* achtergrondkleur menu */
   }
   
 li {
