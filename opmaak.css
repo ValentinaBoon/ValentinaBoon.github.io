@@ -34,4 +34,5 @@ h1 {
 
 p { 
   font-size: 20px; /* grootte van de tekst */
+  width: 50px; /* tot waar de tekst loopt*/
 }
