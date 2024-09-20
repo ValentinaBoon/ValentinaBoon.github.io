@@ -42,3 +42,8 @@ img {
     height: 50px;
     width: 100px;
 }
+
+#wrapper {
+    width: 900px;
+    margin: auto;
+}
