@@ -38,7 +38,7 @@ p {
 }
 
 img {
-    margin-left: 58%;
+    float: right;
     height: 200px;
 }
 
