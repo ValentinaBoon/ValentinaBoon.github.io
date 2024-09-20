@@ -37,7 +37,7 @@ p {
   width: 50%; /* tot waar de tekst loopt*/
 }
 
-img {
+#afbeelding {
     float: right;
     height: 200px;
 }
