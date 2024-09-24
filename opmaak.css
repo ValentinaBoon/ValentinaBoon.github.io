@@ -39,5 +39,6 @@ p {
 
 img {
     float: right;
-    height: 175px;
+    height: 200px;
+    margin-right: 50px;
 }
