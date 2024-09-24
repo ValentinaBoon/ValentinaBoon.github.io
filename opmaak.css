@@ -42,3 +42,7 @@ img {
     height: 200px; /* hoogte van plaatje */
     margin-right: 70px; /* ruimte rechts van plaatje */
 }
+
+image{
+    float: right; /* aan welke kant binary bonanza staat */
+}
