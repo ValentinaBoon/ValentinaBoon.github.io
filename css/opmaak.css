@@ -57,3 +57,9 @@ div2 {
     height: 300px; /* hoogte van plaatje */
     margin-right: 50px; /* ruimte rechts van plaatje */
 }
+
+div3 {
+    float: right; /* aan welke kant het plaatje staat van de website */ 
+    height: 300px; /* hoogte van plaatje */
+    margin-right: 50px; /* ruimte rechts van plaatje */  
+ }
