@@ -47,7 +47,7 @@ footer {
     background-color: rgb(31, 132, 33); /* kleur om de footer heen */
 }
 
-div1 {
+div {
 text-align: right; /* aan welke kant de tekst staat */
 margin-right: 3%; /* ruimte rechts van de tekst */
 }
