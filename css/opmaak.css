@@ -51,6 +51,16 @@ p.binairstelsel {
     width: 50%; /* tot waar de tekst loopt*/
 }
 
+p.RGB-model {
+    font-size: 20px; /* grootte van de tekst */
+    width: 50%; /* tot waar de tekst loopt*/
+}
+
+#RGB-model {
+    float: right; /* aan welke kant het plaatje staat van de website */ 
+    height: 200px; /* hoogte van plaatje */
+    margin-right: 50px; /* ruimte rechts van plaatje */
+}
 
 #binairstelsel {
     float: right; /* aan welke kant het plaatje staat van de website */ 
@@ -74,4 +84,13 @@ margin-right: 3%; /* ruimte rechts van de tekst */
 
 #lossycompressionafbeelding {
     float: center;
- }
+}
+
+img.simba {
+    float: right; /* aan welke kant de afbeelding staat */
+    width: 40%; /* tot waar de afbeelding loopt */
+}
+img.crosshinderniselektra {
+  float: right; /* aan welke kant de afbeelding staat */
+  width: 40%; /* tot waar de afbeelding loopt */
+}
