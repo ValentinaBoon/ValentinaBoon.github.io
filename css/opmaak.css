@@ -88,9 +88,9 @@ margin-right: 3%; /* ruimte rechts van de tekst */
 
 img.simba {
     float: right; /* aan welke kant de afbeelding staat */
-    width: 40%; /* tot waar de afbeelding loopt */
+    width: 20%; /* tot waar de afbeelding loopt */
 }
 img.crosshinderniselektra {
   float: right; /* aan welke kant de afbeelding staat */
-  width: 40%; /* tot waar de afbeelding loopt */
+  width: 20%; /* tot waar de afbeelding loopt */
 }
