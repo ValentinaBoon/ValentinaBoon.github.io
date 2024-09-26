@@ -32,9 +32,19 @@ h1 {
     text-align: center; /* h1 is boven in het midden van de pagina */
 }
 
-p { 
+p.gezin { 
   font-size: 20px; /* grootte van de tekst */
   width: 50%; /* tot waar de tekst loopt*/
+}
+
+p.school { 
+    font-size: 20px; /* grootte van de tekst */
+    width: 50%; /* tot waar de tekst loopt*/
+}
+
+p.vrijetijd { 
+    font-size: 20px; /* grootte van de tekst */
+    width: 100%; /* tot waar de tekst loopt*/
 }
 
 #binairstelsel {
