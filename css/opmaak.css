@@ -97,9 +97,9 @@ margin-right: 3%; /* ruimte rechts van de tekst */
 
 #vectorafbeelding {
     float: right; /* aan welke kant de afbeelding staat */
-    width: 10%; /* tot waar de afbeelding loopt */
+    width: 15%; /* tot waar de afbeelding loopt */
 }
 
 #bitmapenvectorafbeelding {
-    width: 20%; /* tot waar de afbeelding loopt */
+    width: 30%; /* tot waar de afbeelding loopt */
 }
