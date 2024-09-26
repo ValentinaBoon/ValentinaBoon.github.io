@@ -80,7 +80,17 @@ margin-right: 3%; /* ruimte rechts van de tekst */
     float: right; /* aan welke kant de afbeelding staat */
     width: 20%; /* tot waar de afbeelding loopt */
 }
+
 #crosshinderniselektra {
   float: right; /* aan welke kant de afbeelding staat */
   width: 20%; /* tot waar de afbeelding loopt */
+}
+
+#CMYK-RGB {
+    width: 50%; /* tot waar de afbeelding loopt */
+}
+
+#RGB {
+    float: right; /* aan welke kant de afbeelding staat */
+    width: 40%; /* tot waar de afbeelding loopt */
 }
