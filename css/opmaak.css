@@ -37,12 +37,14 @@ p {
 }
 
 p.gezin { 
-  font-size: 20px; /* grootte van de tekst */
   width: 50%; /* tot waar de tekst loopt*/
 }
 
-p.school { 
-    font-size: 20px; /* grootte van de tekst */
+p.school {
+    width: 50%; /* tot waar de tekst loopt*/
+}
+
+p.invoer {
     width: 50%; /* tot waar de tekst loopt*/
 }
 
@@ -102,4 +104,9 @@ margin-right: 3%; /* ruimte rechts van de tekst */
 
 #bitmapenvectorafbeelding {
     width: 30%; /* tot waar de afbeelding loopt */
+}
+
+#invoer {
+    float: right; /* aan welke kant de afbeelding staat */
+    width: 45%; /* tot waar de afbeelding loopt */
 }
