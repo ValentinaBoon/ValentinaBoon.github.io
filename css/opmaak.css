@@ -32,6 +32,10 @@ h1 {
     text-align: center; /* h1 is boven in het midden van de pagina */
 }
 
+p {
+    font-size: 20px; /* grootte van de tekst */
+}
+
 p.gezin { 
   font-size: 20px; /* grootte van de tekst */
   width: 50%; /* tot waar de tekst loopt*/
@@ -42,10 +46,11 @@ p.school {
     width: 50%; /* tot waar de tekst loopt*/
 }
 
-p.vrijetijd { 
+p.binairstelsel { 
     font-size: 20px; /* grootte van de tekst */
-    width: 100%; /* tot waar de tekst loopt*/
+    width: 50%; /* tot waar de tekst loopt*/
 }
+
 
 #binairstelsel {
     float: right; /* aan welke kant het plaatje staat van de website */ 
@@ -62,24 +67,11 @@ text-align: right; /* aan welke kant de tekst staat */
 margin-right: 3%; /* ruimte rechts van de tekst */
 }
 
-#simba {
-    float: right; /* aan welke kant het plaatje staat van de website */ 
-    height: 300px; /* hoogte van plaatje */
-    margin-right: 50px; /* ruimte rechts van plaatje */
-}
-
-#crosshinderniselektra {
-    float: right; /* aan welke kant het plaatje staat van de website */ 
-    height: 300px; /* hoogte van plaatje */
-    margin-right: 50px; /* ruimte rechts van plaatje */  
- }
-
- #lossycompression {
+#lossycompression {
     font-size: 20px; /* grootte van de tekst */
     width: 100%; /* tot waar de tekst loopt */
+}
 
- }
-
- #lossycompressionafbeelding {
+#lossycompressionafbeelding {
     float: center;
  }
