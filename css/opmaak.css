@@ -46,16 +46,6 @@ p.school {
     width: 50%; /* tot waar de tekst loopt*/
 }
 
-p.binair { 
-    font-size: 20px; /* grootte van de tekst */
-    width: 50%; /* tot waar de tekst loopt*/
-}
-
-p.RGB-model {
-    font-size: 20px; /* grootte van de tekst */
-    width: 50%; /* tot waar de tekst loopt*/
-}
-
 #RGB-model {
     float: right; /* aan welke kant het plaatje staat van de website */ 
     height: 200px; /* hoogte van plaatje */
