@@ -73,7 +73,7 @@ margin-right: 3%; /* ruimte rechts van de tekst */
 }
 
 #lossycompressionafbeelding {
-    float: center;
+    width: 50%; /* tot waar de afbeelding loopt */
 }
 
 #simba {
